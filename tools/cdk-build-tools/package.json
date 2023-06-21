@@ -32,13 +32,13 @@
   },
   "dependencies": {
     "fs-extra": "^7.0.0",
-    "jsii": "^0.7.12",
-    "jsii-pacmak": "^0.7.12",
+    "jsii": "^0.21.0",
+    "jsii-pacmak": "^0.7.15",
     "merkle-build": "^0.20.0",
     "nodeunit": "^0.11.3",
-    "nyc": "^13.0.1",
+    "nyc": "^15.0.0",
     "typescript": "^3.1.2",
-    "yargs": "^9.0.1"
+    "yargs": "^10.0.0"
   },
   "keywords": [
     "aws",
