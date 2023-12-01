@@ -49,7 +49,7 @@
     "@aws-cdk/applet-js": "^0.20.0",
     "@aws-cdk/cloudformation-diff": "^0.20.0",
     "@aws-cdk/cx-api": "^0.20.0",
-    "archiver": "^2.1.1",
+    "archiver": "^5.0.0",
     "aws-sdk": "^2.259.1",
     "camelcase": "^5.0.0",
     "cli-table": "^0.3.1",
