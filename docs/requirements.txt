@@ -2,3 +2,4 @@ sphinx==1.7.6
 m2r==0.1.14
 sphinx-tabs==1.1.7
 sphinx_rtd_theme==0.4.1
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
