@@ -49,7 +49,7 @@
     "@aws-cdk/applet-js": "^0.20.0",
     "@aws-cdk/cloudformation-diff": "^0.20.0",
     "@aws-cdk/cx-api": "^0.20.0",
-    "archiver": "^2.1.1",
+    "archiver": "^5.3.1",
     "aws-sdk": "^2.259.1",
     "camelcase": "^5.0.0",
     "cli-table": "^0.3.1",
@@ -59,13 +59,13 @@
     "json-diff": "^0.3.1",
     "minimatch": ">=3.0",
     "promptly": "^0.2.0",
-    "proxy-agent": "^3.0.1",
+    "proxy-agent": "^4.0.0",
     "request": "^2.83.0",
     "semver": "^5.5.0",
     "source-map-support": "^0.5.6",
-    "table": "^5.1.0",
+    "table": "^6.7.2",
     "yaml": "^1.1.0",
-    "yargs": "^9.0.1"
+    "yargs": "^17.3.0"
   },
   "repository": {
     "url": "https://github.com/awslabs/aws-cdk.git",
