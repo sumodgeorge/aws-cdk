@@ -34,7 +34,7 @@
     "@aws-cdk/cloudformation-diff": "^0.20.0",
     "@aws-cdk/cx-api": "^0.20.0",
     "aws-cdk": "^0.20.0",
-    "yargs": "^9.0.1"
+    "yargs": "^17.3.0"
   },
   "keywords": [
     "aws",
